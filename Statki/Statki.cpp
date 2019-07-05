@@ -8,9 +8,6 @@
 
 int main()
 {
-
-
-
 	Board board;
 	while (true)
 	{
